@@ -1,0 +1,68 @@
+.btn1{
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #D8EBFA;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1969AA;
+    font-weight: 700;
+    width: 100px;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.btn2{
+    padding: 10px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fafafa;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1969AA;
+    font-weight: 700;
+    width: 10px;
+    font-size: 14px;
+    display: flex;
+}
+
+.btn1:hover{
+    background-color: #0A76D8;
+    color: white;
+}
+
+.btn2:hover{
+    background-color: transparent;
+    color: rgb(24, 7, 77);
+}
+.admin-product-form-container form .box{
+margin: 10px;
+height: 40px;
+
+}
+.product-display .product-display-table th{
+padding: 10px;
+margin: 10px;
+font-size: 15px;
+align-items: left;
+font-size: 17px;
+background-color: #0b67bd;
+border-radius: 5px;
+color: white;
+
+}
+.product-display .product-display-table td{
+    padding:10px;
+    padding-left: 30px;
+    font-size: 13px;
+    margin: 10px;
+    width: 1000px;
+    border-bottom: 10px;
+    color: black;
+    margin-left: 50px;
+    background-color: #fafafa;
+    border-radius: 5px;
+ }
